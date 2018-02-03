@@ -28,7 +28,7 @@
      transform="translate(0,-246.2)"
      id="layer1">
     <g
-       transform="matrix(0.97913368,0,0,0.97913368,-77.650385,202.04195)"
+       transform="matrix(0.97376988,-0.10234734,0.10234734,0.97376988,-19.146266,195.30838)"
        id="g4546">
       <g
          id="g4519">
@@ -37,13 +37,13 @@
            cy="75.895554"
            cx="88.302971"
            id="path4485"
-           style="opacity:1;fill:#a900ff;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+           style="opacity:1;fill:#282828;fill-opacity:1;stroke:#2d2d2d;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
         <circle
-           r="8.15172"
+           r="8.302371"
            cy="75.895554"
            cx="122.16962"
            id="path4485-3"
-           style="opacity:1;fill:#a900ff;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+           style="opacity:1;fill:#343664;fill-opacity:1;stroke:#2d2d2d;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
       </g>
       <g
          id="g4538">
@@ -52,14 +52,18 @@
            cy="61.067265"
            cx="105.2363"
            id="path4485-3-6"
-           style="opacity:1;fill:#a900ff;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+           style="opacity:1;fill:#b74aa2;fill-opacity:1;stroke:#2d2d2d;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
         <circle
-           r="5.3026624"
-           cy="88.470535"
+           r="5.9886351"
+           cy="87.389648"
            cx="105.23631"
            id="path4485-3-6-7"
-           style="opacity:1;fill:#a900ff;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+           style="opacity:1;fill:#dfae00;fill-opacity:1;stroke:#2d2d2d;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
       </g>
     </g>
+    <path
+       d="m 25.135417,263.92708 v 22.48958 z m 0,-6.61458 v 6.61458 L 5.2916667,266.57292 25.135417,286.41666 15.875,270.54167 h 18.520833 l -9.260416,15.87499 19.84375,-19.84374 -19.84375,-2.64584 z m -19.8437503,9.26042 19.8437503,-9.26042 19.84375,9.26042 -10.583334,3.96875 L 25.135417,257.3125 15.875,270.54167 Z"
+       style="fill:none;stroke:#000000;stroke-width:0.26499999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path4605" />
   </g>
 </svg>
